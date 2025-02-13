@@ -1,4 +1,8 @@
 # Multiplication-Table
+![OIP](https://github.com/user-attachments/assets/55ceb34a-006d-4e61-a444-6add2ec080f7)
+
+
+
 This tool is designed to help with coding practice for understanding and using the while loop in Python. It provides an interactive way to learn how to create and control a loop that repeats until a certain condition is met.
 
 
